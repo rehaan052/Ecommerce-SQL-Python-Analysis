@@ -1,6 +1,3 @@
-# Ecommerce-SQL-Python-Analysis
-End-to-end ecommerce data analysis using MySQL and Python, focused on extracting business insights from real-world relational data.
-
 # 🛒 Ecommerce SQL & Python Analysis
 
 A complete **end-to-end data analysis project** on an ecommerce dataset using **MySQL and Python**.
